@@ -1,7 +1,7 @@
 env.BA_CUSTOMER="Hochschule"
 env.BA_DBNAME="mysqlauth-service"
 env.BA_DBUSER="root"
-env.BA_DBDB="testdb"
+env.BA_DBDB="authentication"
 env.BA_DBPSWD="Philipp1"
 env.BA_DOMAIN="http://hhz.regel-it.de"
 env.C_NAMESPACE="base"
