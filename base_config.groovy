@@ -1,5 +1,5 @@
 env.BA_CUSTOMER="Hochschule"
-env.BA_DBNAME="mysqBA-service"
+env.BA_DBNAME="mysqlauth-service"
 env.BA_DBUSER="root"
 env.BA_DBDB="testdb"
 env.BA_DBPSWD="Philipp1"
